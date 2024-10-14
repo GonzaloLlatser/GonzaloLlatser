@@ -4,11 +4,12 @@
 
 ```javascript
 const GonzaloLlatser = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, Typescript, Java, PHP],
-  tools: [Bootstrap, WordPress, React, Redux, NodeJS, ExpressJS, Storybook, Styled-Components, MongoDB, APIs, Fetch, Docker, more],
-  studies: [DAW, Bootcamps, OnlineCourses],
- }
+  pronouns: "he/him", 
+  code: ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "PHP"],
+  tools: ["Bootstrap", "WordPress", "React", "Redux", "NodeJS", "ExpressJS", "Storybook", "Styled-Components", "MongoDB", "APIs", "Fetch", "Docker", "more"],
+  studies: ["DAW", "Bootcamps", "OnlineCourses"],
+  address: "Valencia, España" 
+};
 ```
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +23,6 @@ const GonzaloLlatser = {
 ## 🚀 Otros
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman)](https://skillicons.dev)
 
-
 ### 🌍 You can find me:
 - [Linkedin](https://www.linkedin.com/in/gonzalo-llatser-acuña/)
 - [Instagram](https://www.instagram.com/g.llatser/)
@@ -32,14 +32,15 @@ const GonzaloLlatser = {
 
 ## ES - Hola 👋
 
-### Un poco sobre mí
-
+Un poco sobre mí
 Soy Gonzalo, argentino de nacimiento y ciudadano del 🌐 mundo por elección. Actualmente resido en 📍Valencia, España.
 
-Tras muchos años dedicados al estudio y trabajo en el campo de las finanzas 📉, un día la programación llegó a mi vida y me cautivó (💘 "amor a primera línea de código" 💻).
+Después de varios años en el mundo de las finanzas 📉, descubrí mi pasión por la programación (💘 ¡fue amor a primera línea de código! 💻).
 
-Desde entonces, me encuentro inmerso en el estudio de la FPGS "Desarrollo de Aplicaciones Web". Además, he completado dos Bootcamps ✔️ y participado en numerosos 📹 cursos en línea. Puedo considerarme un apasionado de la programación, disfruto de sus desafíos, retos y de la magia 🌈 que envuelve a este fascinante mundo.
+Estoy finalizando un **Ciclo Formativo de Grado Superior en "Desarrollo de Aplicaciones Web"** y he completado un Bootcamp ✔️, además de numerosos cursos en línea 📹.
 
-Te invito a explorar mis proyectos, y si tienes algún consejo, 💯 no dudes en compartirlo conmigo. 🚀 En estos proyectos, podrás observar mi dominio de diversos lenguajes, herramientas y librerías.
+La programación me motiva por su combinación de lógica y creatividad, lo que me permite abordar problemas desde nuevas perspectivas 🌈.
 
-Saludos a todos los desarrolladores. ¡Hagamos código juntos!
+Te invito a explorar mis proyectos en GitHub, donde podrás ver mi dominio de diversos lenguajes, herramientas y librerías. Si tienes algún consejo, 💯 no dudes en compartirlo conmigo.
+
+Saludos a todos los desarrolladores. ¡Hagamos código juntos! 🚀
